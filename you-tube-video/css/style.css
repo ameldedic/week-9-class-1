@@ -1,0 +1,34 @@
+/*
+width="560"   
+height="315"*/
+/*
+aspect ratio: 0.5625*/
+
+figure {
+    margin: 0;
+    padding: 0.5rem 0.5rem 1rem 0.5rem;
+    background-color: #CCC;
+    border-radius: 5px;
+}
+
+figcaption {
+    margin: 1rem 0 0 0;
+}
+
+.video-wrapper {
+    position: relative;
+    
+    width: 100%;
+    padding: 0 0 56.25% 0;
+}
+
+.video-wrapper iframe {
+    border: none;
+    position: absolute;
+    
+    top: 0;
+    left: 0;
+    
+    width: 100%;
+    height: 100%;
+}

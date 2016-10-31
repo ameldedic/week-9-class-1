@@ -1,0 +1,15 @@
+figure {
+    background-color: #CCC;
+    margin: 0;
+    padding: 0.5rem 0.5rem 1rem 0.5rem;
+    border-radius: 5px;
+}
+
+figcaption {
+    margin: 1rem 0 0 0;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
